@@ -1,2 +1,2 @@
-this parse sucks. I am replacing it soon
+this parser is very c++ but sucks big time. What it does can be done in 5 lines of code. I am replacing it soon....
 
